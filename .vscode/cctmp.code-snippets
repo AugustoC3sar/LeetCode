@@ -1,0 +1,26 @@
+{
+	"solution": {
+		"prefix": "solution",
+		"body": [
+			"#include <iostream>",
+			"",
+			"using namespace std;",
+			"",
+			"/*",
+			"Problem <num>",
+			"",
+			"    Description:",
+			"",
+			"    Constraints:",
+			"*/",
+			"",
+			"class Solution {",
+			"public:",
+			"    void method() {",
+			"        ",
+			"    }",
+			"};"
+		],
+		"description": "solution"
+	}
+}
